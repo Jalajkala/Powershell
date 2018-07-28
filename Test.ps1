@@ -13,3 +13,4 @@ elseif ($num2 -gt $num3)
 {
     write-host "$num2 is greatest of all !!"
 }else {write-host "$num3 is greatest of all !!"}
+write-host "Program has ended !!"
